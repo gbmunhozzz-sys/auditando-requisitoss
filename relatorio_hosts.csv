@@ -1,0 +1,5 @@
+Hostname;Sistema Operacional;Status
+PC-001;Windows;Online
+SRV-001;Linux;Em Monitoramento
+PC-002;Windows;Online
+SRV-002;Linux;Em Monitoramento
